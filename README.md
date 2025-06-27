@@ -4,7 +4,7 @@ A lightweight Python-based tool for analyzing live network traffic and identifyi
 
 
 ## Screenshots
-![Alt text](main-screenshot.png)
+![Alt text](screenshots/main-screenshot.png)
 
 
 ## Features
