@@ -38,7 +38,8 @@ cd Network_Traffic_Analyzer
 
 > Replace the placeholder in **test_abuseipdb.py**:
 
-```headers = {
+```
+headers = {
     'Key': 'YOUR_API_KEY',
     'Accept': 'application/json'
 }
