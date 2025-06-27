@@ -30,7 +30,7 @@ cd Network_Traffic_Analyzer
 ```pip install -r requirements.txt```
 
 
-##  Up AbuseIPDB API Key
+##  Set Up AbuseIPDB API Key
 
 > Sign up at AbuseIPDB
 
