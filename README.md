@@ -19,7 +19,7 @@ A lightweight Python-based tool for analyzing live network traffic and identifyi
 
 ## Setup Instructions
 
-### 1. 📥 Clone the Repository
+### 1. Clone the Repository
 
 ```
 git clone https://github.com/anonym-saurab/Network_Traffic_Analyzer.git
@@ -27,12 +27,12 @@ cd Network_Traffic_Analyzer
 ```
 
 
-## Install Dependencies
+## 2. Install Dependencies
 
 ```pip install -r requirements.txt```
 
 
-##  Set Up AbuseIPDB API Key
+## 3. Set Up AbuseIPDB API Key
 
 > Sign up at AbuseIPDB
 
@@ -47,7 +47,7 @@ headers = {
 }
 ```
 
-## How to Use
+## 4. How to Use
 > Run Packet Sniffer
 
 ```sudo python3 test_sniffer.py```
