@@ -3,6 +3,8 @@
 A lightweight Python-based tool for analyzing live network traffic and identifying potentially malicious IP addresses using the [AbuseIPDB API](https://abuseipdb.com). Built for cybersecurity learners, hobbyists, and network analysts to monitor packets and detect threats in real-time.
 
 
+## Screenshots
+![Alt text](main-screenshot.png)
 
 
 ## Features
